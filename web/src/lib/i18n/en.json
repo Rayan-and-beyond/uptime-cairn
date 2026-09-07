@@ -359,6 +359,7 @@
 	"reports.schedules": "Schedules",
 	"reports.scope": "Scope",
 	"reports.scopeHint": "Resolved when the report runs, not when you save it. Add a monitor to a tag and it is in the next report.",
+	"reports.section.certificate_expiry": "Certificates and domains",
 	"reports.section.comparison": "Comparison",
 	"reports.section.error_budget": "Error budget",
 	"reports.section.incident_log": "Incidents",
